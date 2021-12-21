@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(253, 253, 253);
+}
+/* estilo de imagen tienda */
+.media-object-img {
+    --tamano: 65px;
+    width: var(--tamano);
+    height: var(--tamano);
+    margin-right: 15px;
+}
